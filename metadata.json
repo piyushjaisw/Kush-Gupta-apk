@@ -1,0 +1,6 @@
+{
+  "name": "JUST FOR YOU ❤️",
+  "description": "A personal friendship surprise created by Piyush Jaiswal for his friend Kush Gupta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
